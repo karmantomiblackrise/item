@@ -495,7 +495,7 @@ ItemList = {
         useable = true,
         ammotype = 'AMMO_PISTOL',
         description = 'da Violence',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['weapon_doubleaction'] = {
@@ -509,7 +509,7 @@ ItemList = {
         useable = true,
         ammotype = 'AMMO_PISTOL',
         description = 'Double Action Revolver',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['weapon_snspistol_mk2'] = {
@@ -523,7 +523,7 @@ ItemList = {
         useable = true,
         ammotype = 'AMMO_PISTOL',
         description = 'SNS Pistol MK2',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['weapon_raypistol'] = {
@@ -537,7 +537,7 @@ ItemList = {
         useable = true,
         ammotype = 'AMMO_PISTOL',
         description = 'Weapon Raypistol',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['weapon_ceramicpistol'] = {
@@ -551,7 +551,7 @@ ItemList = {
         useable = true,
         ammotype = 'AMMO_PISTOL',
         description = 'Weapon Ceramicpistol',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['weapon_navyrevolver'] = {
@@ -623,7 +623,7 @@ ItemList = {
         useable = true,
         ammotype = 'AMMO_SMG',
         description = 'SMG MK2',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['weapon_assaultsmg'] = {
@@ -821,7 +821,7 @@ ItemList = {
         useable = true,
         ammotype = 'AMMO_SHOTGUN',
         description = 'Pumpshotgun MK2',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['weapon_combatshotgun'] = {
@@ -866,7 +866,7 @@ ItemList = {
         useable = true,
         ammotype = 'AMMO_RIFLE',
         description = 'Assault Rifle MK2',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['weapon_carbinerifle'] = {
@@ -896,7 +896,7 @@ ItemList = {
         useable = true,
         ammotype = 'AMMO_RIFLE',
         description = 'Carbine Rifle MK2',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['weapon_advancedrifle'] = {
@@ -966,7 +966,7 @@ ItemList = {
         useable = true,
         ammotype = 'AMMO_RIFLE',
         description = 'Weapon Wpecialcarbine MK2',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['weapon_bullpuprifle_mk2'] = {
@@ -980,7 +980,7 @@ ItemList = {
         useable = true,
         ammotype = 'AMMO_RIFLE',
         description = 'Bull Puprifle MK2',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['weapon_militaryrifle'] = {
@@ -994,7 +994,7 @@ ItemList = {
         useable = true,
         ammotype = 'AMMO_RIFLE',
         description = 'Weapon Militaryrifle',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['weapon_tacticalrifle'] = {
@@ -1008,7 +1008,7 @@ ItemList = {
         useable = true,
         ammotype = 'AMMO_RIFLE',
         description = 'Weapon Tactical Rifle',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
 
@@ -1066,7 +1066,7 @@ ItemList = {
         useable = true,
         ammotype = 'AMMO_MG',
         description = 'Weapon Combatmg MK2',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
 
@@ -1138,7 +1138,7 @@ ItemList = {
         useable = true,
         ammotype = 'AMMO_SNIPER',
         description = 'Weapon Heavysniper MK2',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['weapon_marksmanrifle_mk2'] = {
@@ -1152,7 +1152,7 @@ ItemList = {
         useable = true,
         ammotype = 'AMMO_SNIPER',
         description = 'Weapon Marksmanrifle MK2',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['weapon_precisionrifle'] = {
@@ -1196,7 +1196,7 @@ ItemList = {
         useable = false,
         ammotype = 'AMMO_GRENADELAUNCHER',
         description = 'A weapon that fires a specially-designed large-caliber projectile, often with an explosive, smoke or gas warhead',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['weapon_grenadelauncher_smoke'] = {
@@ -1224,7 +1224,7 @@ ItemList = {
         useable = false,
         ammotype = 'AMMO_MINIGUN',
         description = 'A portable machine gun consisting of a rotating cluster of six barrels and capable of variable rates of fire of up to 6,000 rounds per minute',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['weapon_firework'] = {
@@ -1352,7 +1352,7 @@ ItemList = {
         useable = false,
         ammotype = nil,
         description = 'An explosive charge covered with an adhesive that when thrown against an object sticks until it explodes',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['weapon_proxmine'] = {
@@ -1366,7 +1366,7 @@ ItemList = {
         useable = false,
         ammotype = nil,
         description = 'A bomb placed on the ground that detonates when going within its proximity',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['weapon_snowball'] = {
@@ -1565,7 +1565,7 @@ ItemList = {
         useable = true,
         shouldClose = true,
         description = 'Pistol Holographic Scope Attachment',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['pistol_smallscope'] = {
@@ -1717,7 +1717,7 @@ ItemList = {
         useable = true,
         shouldClose = true,
         description = 'SMG Holographic Scope Attachment',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
 
@@ -1824,7 +1824,7 @@ ItemList = {
         useable = true,
         shouldClose = true,
         description = 'Shotgun Muzzle Brake Attachment',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['shotgun_holoscope'] = {
@@ -1839,7 +1839,7 @@ ItemList = {
         useable = true,
         shouldClose = true,
         description = 'Shotgun Holographic Scope Attachment',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['shotgun_smallscope'] = {
@@ -1931,7 +1931,7 @@ ItemList = {
         useable = true,
         shouldClose = true,
         description = 'Rifle Holographic Sight',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['rifle_smallscope'] = {
@@ -1961,7 +1961,7 @@ ItemList = {
         useable = true,
         shouldClose = true,
         description = 'Rifle Large Scope',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['rifle_suppressor'] = {
@@ -2084,7 +2084,7 @@ ItemList = {
         useable = true,
         shouldClose = true,
         description = 'Sniper Large Scope Attachment',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['sniper_suppressor'] = {
@@ -2114,7 +2114,7 @@ ItemList = {
         useable = true,
         shouldClose = true,
         description = 'Sniper Holographic Sight Attachment',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['sniper_squaredmuzzle'] = {
@@ -2129,7 +2129,7 @@ ItemList = {
         useable = true,
         shouldClose = true,
         description = 'Sniper Squared Muzzle Attachment',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['sniper_thermalscope'] = {
@@ -2144,7 +2144,7 @@ ItemList = {
         useable = true,
         shouldClose = true,
         description = 'Sniper Thermal Scope Attachment',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['sniper_barrel'] = {
@@ -2320,7 +2320,7 @@ ItemList = {
         useable = true,
         shouldClose = true,
         description = 'Luxury Finish Tint',
-        rare = 'legendary',
+        rare = 'epic',
         object = 'ng_proc_spraycan01a',
     },
 
@@ -2336,7 +2336,7 @@ ItemList = {
         useable = true,
         shouldClose = true,
         description = 'Luxury Finish Tint',
-        rare = 'legendary',
+        rare = 'epic',
         object = 'ng_proc_spraycan01a',
     },
 
@@ -3391,7 +3391,7 @@ ItemList = {
         useable = false,
         shouldClose = true,
         description = '1KG Weed Brick to sell to large customers.',
-        rare = 'legendary',
+        rare = 'epic',
         object = 'bkr_prop_weed_bigbag_01a',
     },
 
@@ -3407,7 +3407,7 @@ ItemList = {
         useable = false,
         shouldClose = true,
         description = 'Heavy package of cocaine, mostly used for deals and takes a lot of space',
-        rare = 'legendary',
+        rare = 'epic',
         object = 'bkr_prop_coke_cut_02',
     },
 
@@ -3952,7 +3952,7 @@ ItemList = {
         useable = true,
         shouldClose = true,
         description = "Sometimes you'd wish for everything to burn",
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['trojan_usb'] = {
@@ -3967,7 +3967,7 @@ ItemList = {
         useable = false,
         shouldClose = true,
         description = 'Handy software to shut down some systems',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['screwdriverset'] = {
@@ -3997,7 +3997,7 @@ ItemList = {
         useable = false,
         shouldClose = false,
         description = 'The real deal...',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['phone_dongle'] = {
@@ -4029,7 +4029,7 @@ ItemList = {
         useable = true,
         shouldClose = true,
         description = 'Speed up, gas pedal! :D',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['repairkit'] = {
@@ -4415,7 +4415,7 @@ ItemList = {
         useable = false,
         shouldClose = true,
         description = 'A golden watch seems like the jackpot to me!',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['diamond_ring'] = {
@@ -4445,7 +4445,7 @@ ItemList = {
         useable = false,
         shouldClose = true,
         description = 'A diamond seems like the jackpot to me!',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['goldchain'] = {
@@ -4490,7 +4490,7 @@ ItemList = {
         useable = false,
         shouldClose = true,
         description = 'Looks pretty expensive to me',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['small_tv'] = {
@@ -4597,7 +4597,7 @@ ItemList = {
         useable = true,
         shouldClose = true,
         description = 'A nice tool to break into doors',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['empty_evidence_bag'] = {
@@ -4940,7 +4940,7 @@ ItemList = {
         useable = true,
         shouldClose = true,
         description = 'Key for a lock...?',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['printerdocument'] = {
@@ -6813,7 +6813,7 @@ ItemList = {
         useable = false,
         shouldClose = true,
         description = 'Warm tissue in a sealed jar. It moves when you are not looking.',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['corrupted_tape'] = {
@@ -6828,7 +6828,7 @@ ItemList = {
         useable = true,
         shouldClose = true,
         description = 'Playing it shows the way out and takes something from you.',
-        rare = 'legendary',
+        rare = 'epic',
     },
 
     ['almond_water_spoiled'] = {
@@ -7081,7 +7081,7 @@ ItemList = {
         useable = true,
         shouldClose = true,
         description = 'Organization Paint Can',
-        rare = 'legendary',
+        rare = 'epic',
         object = 'prop_cs_spray_can',
         objectRotation = vec3(15.0, 60.0, 1.5),
     },
@@ -7098,7 +7098,7 @@ ItemList = {
         useable = true,
         shouldClose = true,
         description = 'Spray Cleaner',
-        rare = 'legendary',
+        rare = 'epic',
         object = 'prop_cs_spray_can',
         objectRotation = vec3(15.0, 60.0, 1.5),
     },
@@ -8379,11 +8379,18 @@ ItemList = {
     },
 
     ['boss_tablet'] = {
+        label = 'Boss Tablet',
+        weight = 1000,
         stack = true,
+        close = true,
         name = 'boss_tablet',
         type = 'item',
-        useable = false,
+        image = 'boss_tablet.png',
+        unique = false,
+        useable = true,
+        shouldClose = true,
         rare = 'common',
+        description = 'Digital tablet for managing your business.',
     },
 
 
